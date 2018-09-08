@@ -3,7 +3,7 @@
  *
  * @author ShenYunWen
  **/
-public class judgeCircle {
+public class JudgeCircle {
 
     public boolean func(String moves) {
         int[] OPoint = new int[]{0,0};
