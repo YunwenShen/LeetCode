@@ -1,3 +1,5 @@
+package leetcode.editor.cn;
+
 /**
  * 929. 独特的电子邮件地址
  *

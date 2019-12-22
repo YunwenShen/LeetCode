@@ -1,3 +1,5 @@
+package leetcode.editor.cn;
+
 /**
  *  数组类算法-移除元素
  *

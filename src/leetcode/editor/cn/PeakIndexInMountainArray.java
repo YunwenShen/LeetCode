@@ -1,3 +1,5 @@
+package leetcode.editor.cn;
+
 /**
  * 852.山脉数组的峰顶索引
  *

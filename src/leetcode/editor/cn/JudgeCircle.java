@@ -1,3 +1,5 @@
+package leetcode.editor.cn;
+
 /**
  * 657. 机器人能否返回原点
  *
